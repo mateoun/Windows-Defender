@@ -1,0 +1,5 @@
+https://go.microsoft.com/fwlink/?LinkID=121721&arch=x64
+https://go.microsoft.com/fwlink/?LinkID=121721&arch=x86
+
+86位 https://go.microsoft.com/fwlink/?LinkID=87342
+64位 https://go.microsoft.com/fwlink/?LinkID=87341
